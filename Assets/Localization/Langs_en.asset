@@ -22,6 +22,18 @@ MonoBehaviour:
     m_Localized: 'Player Name:'
     m_Metadata:
       m_Items: []
+  - m_Id: 316915225755648
+    m_Localized: Login
+    m_Metadata:
+      m_Items: []
+  - m_Id: 317627095613440
+    m_Localized: 'Connected as:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 323201396932608
+    m_Localized: Spawn Cube
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

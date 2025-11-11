@@ -19,6 +19,18 @@ MonoBehaviour:
     m_Key: PlayerName
     m_Metadata:
       m_Items: []
+  - m_Id: 316915225755648
+    m_Key: Login
+    m_Metadata:
+      m_Items: []
+  - m_Id: 317627095613440
+    m_Key: Connected as
+    m_Metadata:
+      m_Items: []
+  - m_Id: 323201396932608
+    m_Key: Spawn Cube
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:
